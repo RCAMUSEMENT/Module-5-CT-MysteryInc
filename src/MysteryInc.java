@@ -78,7 +78,6 @@ public class MysteryInc {
 
     /**
      * Recursive method: Finding boxes and avoiding the ghost.
-     * Abides by assignment: provides the product of 5 numbers using recursion.
      */
     public static double calculateProduct(int count, Scanner sc) {
         // BASE CASE: All 5 boxes checked
@@ -118,7 +117,7 @@ public class MysteryInc {
         } catch (InputMismatchException e) {
             System.out.println("Daphne: \"Jeepers! That's a red herring! (Not a valid number)\"");
             sc.next(); // Clear buffer
-            return calculateProduct(count, sc); // Retry this specific box
+            return calculateProduct(count, sc); // Retry the same box
         }
     }
 

@@ -1,7 +1,7 @@
 # 🔍🦴 Ryley's Mystery Inc. Strategic Trap Operations
 **Student:** Ryley Carlson
 **Course:** CSC372 | Module 5 Critical Thinking Assignment
-**Date:** April 5, 2026
+**Date:** April 19, 2026
 
 This program is a recursive, narrative-driven console application built in Java. It simulates a high-stakes snack retrieval mission for the Mystery Inc. gang, featuring deep mathematical recursion, randomized hazards, and an immersive "unmasking" finale.
 
@@ -19,6 +19,6 @@ This program is a recursive, narrative-driven console application built in Java.
 * **Avoid Phantoms:** If a ghost appears during the process, the mission ends. You must restart to try for a successful capture.
 * **Calculate Product:** If you successfully input all 5 values without a ghost encounter, the program recursively multiplies the values to set the trap.
 * **Unmask Villains:** Achieve a non-zero snack power to trigger the unmasking sequence and see the lawyers behind the masks.
-* **Restart Loop:** Use the "yes/no" prompt at the end of the mission to either power down the Mystery Machine or start a new mystery.
+* **The Malt Shop Finale:** After powering down, the gang heads to the Malt Shop for shakes and snacks to celebrate a closed case.
 
 **Developed as part of the CSC372 Module 5 Critical Thinking Assignment.**

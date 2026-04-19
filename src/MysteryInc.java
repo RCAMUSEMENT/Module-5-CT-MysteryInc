@@ -2,7 +2,7 @@
  * RYLEY'S MYSTERY INC. STRATEGIC TRAP OPERATIONS
  * Student Name: Ryley Carlson
  * CSC372 Module 5 Critical Thinking Assignment
- * Date: 2026-04-05
+ * Date: 2026-04-19
  * Program: MysteryInc.java
  * Description: This recursive application simulates a high-stakes snack retrieval mission for Mystery Inc.
  * It implements deep recursion to calculate the product of exactly five snack values needed to set a trap.

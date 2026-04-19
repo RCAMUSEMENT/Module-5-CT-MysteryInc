@@ -10,6 +10,7 @@
  * zero-value inputs, and an immersive narrative unmasking sequence involving Cosgood Creeps and Cuthbert Crawls.
  * This application emphasizes mathematical recursion and thematic storytelling to fulfill module requirements.
  */
+
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;

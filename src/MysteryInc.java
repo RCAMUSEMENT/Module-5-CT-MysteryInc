@@ -74,7 +74,7 @@ public class MysteryInc {
         } while (playAgain.equalsIgnoreCase("yes"));
 
         sc.close();
-        System.out.println("Mystery Machine powering down...");
+        System.out.println("Mystery Machine powering down... I'll meet you at The Malt Shop for Shakes and Scooby Snacks! Goodbye!");
     }
 
     /**

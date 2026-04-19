@@ -11,13 +11,15 @@
  * This application emphasizes mathematical recursion and thematic storytelling to fulfill module requirements.
  */
 import java.util.InputMismatchException;
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
 public class MysteryInc {
     private static int totalBoxes;
+    @SuppressWarnings("FieldMayBeFinal")
     private static Random rand = new Random();
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String playAgain;

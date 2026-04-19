@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "MysteryInc",
+            "request": "launch",
+            "mainClass": "MysteryInc",
+            "projectName": "Module-5-CT-MysteryInc_2569f288"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
